@@ -1,0 +1,3 @@
+This little program re-encodes text file in unicode.
+
+A couple of years ago, when I was learning C#, I created it to convert subtitle files from GB2312 to unicode.
